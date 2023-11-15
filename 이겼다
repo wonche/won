@@ -1,0 +1,7 @@
+echo "# 원" >> README.md 
+git init 
+git add README.md 
+git commit -m "첫 번째 커밋" 
+git Branch -M main 
+git 추가 원본 https://github.com/wonche/won.git
+ git push - 당신은 메인 메인
